@@ -1,23 +1,12 @@
-package edu.mjv.school.projetofinal.model;
+package edu.mjv.school.projetofinal.dto;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table;
-
-@Entity
-@Table(name = "paises")
-public class Pais {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+public class UFDTO {
     private Integer id;
-    @Column(length = 60)
     private String nome;
-    @Column(length = 4)
     private String sigla;
-    
+    private Integer codigoIbge;
+    private Integer idPais;
+
     public Integer getId() {
         return id;
     }
@@ -40,5 +29,21 @@ public class Pais {
 
     public void setSigla(String sigla) {
         this.sigla = sigla;
+    }
+
+    public Integer getCodigoIbge() {
+        return codigoIbge;
+    }
+
+    public void setCodigoIbge(Integer codigoIbge) {
+        this.codigoIbge = codigoIbge;
+    }
+
+    public Integer getIdPais() {
+        return idPais;
+    }
+
+    public void setIdPais(Integer idPais) {
+        this.idPais = idPais;
     }
 }
