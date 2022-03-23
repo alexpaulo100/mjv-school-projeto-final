@@ -208,9 +208,9 @@ Link download Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_
 Link download Maven: https://maven.apache.org/download.cgi
 
 É necessário também criar uma base de dados relacional no MySql.
-...
+```
 CREATE DATABASE "db_example";
-...
+```
 
 ![alt text](db_example.png)
 
