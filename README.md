@@ -15,7 +15,7 @@ Para a correta utilização da API deve ser seguida a seguinte ordem de inclusõ
 
 ### 📋 Pré-requisitos para executar o projeto
 
-Para executar o software é necessário que tenha no mínimo o Java 11 e o Maven instalado em sua máquina.
+Para executar o software é necessário o Java 11 e o Maven instalado em sua máquina.
 Link download Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 Link download Maven: https://maven.apache.org/download.cgi
 
