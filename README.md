@@ -6,7 +6,7 @@ A API é a representação de um controle de estoque multi-filial ou multi-empre
 
 ![alt text](diagrama_classes.png)
 
-## 🚀 Começando
+## 🚀 Iniciando
 
 A API está documentada com Swagger, com a API em funcionamento é possível acessar via browser na seguinte url: http://localhost:8080/swagger-ui/index.html
 
