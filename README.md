@@ -28,7 +28,7 @@ CREATE DATABASE "db_example";
 
 ## 📦 Desenvolvimento
 
-O sistema foi desenvolvido utilizado recursos do Spring Framework como os startes web para que o Spring se encarregue das configurações básicas necessárias para um servidor web, Spring Data JPA para persistência, springdoc-openapi para geração da documentação com Swagger-ui.
+O sistema foi desenvolvido utilizando recursos do Spring Framework como os startes web para que o Spring se encarregue das configurações básicas necessárias para um servidor web, Spring Data JPA para persistência, springdoc-openapi para geração da documentação com Swagger-ui.
 
 Também foram utilizados bibliotecas externas ao Spring Framework como
 MySQL Connector/J que fornece conectividade para clientes desenvolvidos na linguagem de programação Java, Model Mapper que mapeia entidades em dto, considerando quais campos correspondem.
@@ -224,7 +224,6 @@ Exemplos de JSON para Post:
     "idEmpresa": 2
     }
 	
-
 ## ✒️ Autores
 
 * ** Alex Paulo Pereira Silva ** - (https://github.com/alexpaulo100)
