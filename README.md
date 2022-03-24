@@ -6,7 +6,6 @@ A API é a representação de um controle de estoque multi-filial ou multi-empre
 
 ![alt text](diagrama_classes.png)
 
-<<<<<<< HEAD
 ## 🚀 Iniciando
 
 A API está documentada com Swagger, com a API em funcionamento é possível acessar via browser na seguinte url: http://localhost:8080/swagger-ui/index.html
@@ -53,9 +52,6 @@ Também foram utilizados bibliotecas externas ao Spring Framework como
 * [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/) - A IDE utilizada
 * [Spring Boot](https://start.spring.io/) - O Framework utilizado
 * [Astah](https://astah.net/) - Software de Modelagem e Diagramação
-
-<<<<<<< HEAD
-=======
 
 
 ## 🚀 Iniciando 
@@ -251,13 +247,7 @@ Exemplos de JSON para Post:
     "idEmpresa": 2
     }
 	
-<<<<<<< HEAD
-=======
 
-
- 
-
->>>>>>> 2b45c1659f4df209ed48c8e4a34937c2e765868a
 ## ✒️ Autores
 
 * ** Alex Paulo Pereira Silva ** - (https://github.com/alexpaulo100)
