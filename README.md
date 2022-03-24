@@ -16,13 +16,10 @@ Para a correta utilização da API deve ser seguida a seguinte ordem de inclusõ
 ### 📋 Pré-requisitos para executar o projeto
 
 Para executar o software é necessário o Java 11 e o Maven instalado em sua máquina.
-=======
-
 
 ### 📋 Pré-requisitos para executar o projeto
 
 Para executar o software é necessário que tenha no mínimo o Java 11 e o Maven instalado em sua máquina.
->>>>>>> 2b45c1659f4df209ed48c8e4a34937c2e765868a
 Link download Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 Link download Maven: https://maven.apache.org/download.cgi
 
@@ -35,17 +32,14 @@ CREATE DATABASE "db_example";
 
 ## 📦 Desenvolvimento
 
-<<<<<<< HEAD
 O sistema foi desenvolvido utilizando recursos do Spring Framework como os startes web para que o Spring se encarregue das configurações básicas necessárias para um servidor web, Spring Data JPA para persistência, springdoc-openapi para geração da documentação com Swagger-ui.
 
 Também foram utilizados bibliotecas externas ao Spring Framework como
 MySQL Connector/J que fornece conectividade para clientes desenvolvidos na linguagem de programação Java, Model Mapper que mapeia entidades em dto, considerando quais campos correspondem.
-=======
 O sistema foi desenvolvido utilizado recursos do Spring Framework como os startes web para que o Spring se encarregue das configurações básicas necessárias para um servidor web, Spring Data JPA para persistência, springdoc-openapi para geração da documentação com Swagger-ui.
 
 Também foram utilizados bibliotecas externas ao Spring Framework como
  MySQL Connector/J que fornece conectividade para clientes desenvolvidos na linguagem de programação Java, Model Mapper que mapeia entidades em dto, considerando quais campos correspondem.
->>>>>>> 2b45c1659f4df209ed48c8e4a34937c2e765868a
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -61,7 +55,6 @@ A API está documentada com Swagger, com a API em funcionamento é possível ace
 Para a correta utilização da API deve ser seguida a seguinte ordem de inclusões (POST):
 	Pais -> UF -> Empresa -> Categoria -> Produto -> Movimentação
 
->>>>>>> 2b45c1659f4df209ed48c8e4a34937c2e765868a
 Exemplos de JSON para Post:
 
 /paises
